@@ -7,6 +7,10 @@ Tokel Genesis 是 TokelPlatform 的社群延續。原團隊的貢獻永遠保留
 
 ---
 
+🌐 **Website｜官網：https://tokelgenesis.github.io**
+💼 **Desktop wallet v1.5.0（security-hardened｜安全強化版）：https://github.com/TokelGenesis/tokel_dapp/releases/tag/v1.5.0**
+✉️ imperialtokel@gmail.com
+
 ### 給原本的 Tokel 使用者 ｜ For existing Tokel holders
 
 - 同一條鏈、同一個 TKL：你的錢包、代幣（NFT / Tokens）和餘額都還在，不需要轉換或兌換。
